@@ -1,0 +1,14 @@
+li{
+	display: inline;
+	padding: 10px;
+	margin-left: 15px;
+}
+li a:hover {
+	color: red;
+	background-color: black;
+}
+
+li a:active{
+	margin-left: 5px;
+	margin-right: 5px; 
+}
